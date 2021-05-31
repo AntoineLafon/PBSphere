@@ -2,6 +2,8 @@
 A little PBS made with radium engine.
 The executable version of this programm is just a little demo of my PBS implementation.
 
+![alt text](demo_image.png)
+
 ## Notes
 
 - [Radium engine] and all his dependencies are required (you can get all the details directly on their github page)
