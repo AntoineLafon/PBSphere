@@ -1,5 +1,5 @@
 # PBSphere
-A little PBS algorithm based on this [paper] made with [Radium engine], a 3D Engine made by STORM-IRIT.
+A little PBS algorithm based on this [paper] and made with [Radium engine], a 3D Engine created by STORM-IRIT.
 
 ![alt text](demo_image.png)
 
