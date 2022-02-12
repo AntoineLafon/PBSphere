@@ -1,5 +1,5 @@
 # PBSphere
-A little PBS algorithm based on this [paper] : http://mmacklin.com/EG2015PBD.pdf made with radium engine.
+A little PBS algorithm based on this [paper] made with radium engine.
 The executable version of this programm is just a little demo of my PBS implementation.
 
 ![alt text](demo_image.png)
@@ -15,3 +15,4 @@ The executable version of this programm is just a little demo of my PBS implemen
 
 
 [Radium engine]: https://github.com/STORM-IRIT/Radium-Engine
+[paper]: http://mmacklin.com/EG2015PBD.pdf
